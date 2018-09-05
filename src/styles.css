@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+body{
+  background-color: #edecf3;
+}
+
+div.def-container-min-width
+{
+  min-width: 600px;
+  min-height: 300px;
+}
